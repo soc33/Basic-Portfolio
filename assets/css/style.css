@@ -118,3 +118,32 @@ footer {
 .tag {
     text-indent: 0px;
 }
+.project {
+    background: transparent;
+    height: 200px;
+    width: 200px;
+    float: left;
+    margin: 25px;
+}
+h3 {
+    text-align: center;
+    color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: normal;
+    position: absolute;
+    display: block;
+    margin-left: 15%;
+}
+.label {
+    height: 50px;
+    background: #4aaaa5;
+    width: 200px;
+    margin-top: 135px;
+    position: relative;
+    z-index: 2; 
+
+}
+.pic {
+    margin: 0;
+}
+
