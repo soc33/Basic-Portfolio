@@ -115,3 +115,6 @@ footer {
 .push {
     height: 63px;
 }
+.tag {
+    text-indent: 0px;
+}
